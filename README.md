@@ -2,5 +2,5 @@
 First Github Repo
 
 
-test hings by typing
+test things by typing
 Updating the branch I hope
